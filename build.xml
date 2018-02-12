@@ -1,0 +1,10 @@
+<?xml..>
+<project name=demo default=A>
+<target name=A depends=B>
+
+</target>
+<target name=B depends=C>
+
+</target>
+<target name=c>...</target>
+</project>
